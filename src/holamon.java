@@ -2,7 +2,7 @@
 public class holamon {
 
 	public static void main(String[] args) {
-		System.out.println("Hola món");
+		System.out.println("Hola David");
 
 	}
 
